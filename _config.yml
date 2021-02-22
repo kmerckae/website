@@ -27,7 +27,8 @@ url: "https://kmerckae.github.io" # the base hostname & protocol for your site, 
 github_username:  kmerckae
 
 # Build settings
-theme: minima
+# Removed minima theme as it is now a regular theme.
+# theme: minima
 plugins:
   - jekyll-feed
 
